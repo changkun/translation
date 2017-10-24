@@ -4,8 +4,13 @@
 
 ## 清单
 
-|    时间    | 标题                                       | 作品类型 |  语言  | 参与类型 |
+|    时间   | 标题                                      | 作品类型 |  语言  | 参与类型 |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20171023 | [tensorflow 官方文档中文翻译] | 文档  | 英译中  |  翻译  |
+| 20171023 | [RNN 循环神经网络系列 4: 注意力机制] | 文章 | 英译中 | 翻译 | 
+| 20170928 | [RNN 循环神经网络系列 3：编码、解码器] | 文章 | 英译中 | 翻译 | 
+| 20170929 | [RNN 循环神经网络系列 2：文本分类]() | 文章 | 英译中 | 翻译 | 
+| 20170930 | [RNN 循环神经网络系列 1：基本 RNN 与 CHAR-RNN]() | 文章 | 英译中 | 翻译 |
 | 20170919 | [『小键盘』难题：用户在手机上填写表单吗？](https://juejin.im/post/59c0e3835188256bcf2e1d22) |  文章  | 英译中  |  翻译  |
 | 20170919 | [扁平化的 UI 元素既朴实又玄乎](https://juejin.im/post/59c0d3305188256bce40e884) |  文章  | 英译中  |  翻译  |
 | 20170905 | [通知是一种「暗模式」吗？](https://juejin.im/post/59ae63026fb9a024985f31b5) |  文章  | 英译中  |  翻译  |
@@ -21,7 +26,7 @@
 | 20170607 | [如何理智地构建复杂用户界面](https://juejin.im/post/5937a61f2f301e006b2879a9) |  文章  | 英译中  |  翻译  |
 | 20170512 | [人人都是设计师，我们可以的。](https://juejin.im/post/59157cdf0ce4630069d79857) |  文章  | 英译中  |  校对  |
 | 20170512 | [设计师装腔指南](https://juejin.im/post/5915880b570c35006932fac9) |  文章  | 英译中  |  翻译  |
-| 20160824 | [LeapMotion 官方文档中文翻译](https://github.com/changkun/LeapDocCN) |  书籍  | 英译中  |  翻译  |
+| 20160824 | [LeapMotion 官方文档中文翻译](https://github.com/changkun/LeapDocCN) |  文档  | 英译中  |  翻译  |
 | 20160518 | [Swift API 设计指南](http://swift.gg/2016/05/18/api-design-guidelines/) |  文章  | 英译中  |  翻译  |
 | 20160509 | [《Swift 编程语言》文档修订历史 2.0/2.1/2.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/blob/gh-pages/source/chapter1/03_revision_history.md) |  书籍  | 英译中  |  翻译  |
 
