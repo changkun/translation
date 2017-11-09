@@ -6,9 +6,11 @@
 
 |    时间   | 标题                                      | 作品类型 |  语言  | 参与类型 |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
-| 20171023 | [TensorFlow 官方文档中文翻译](https://github.com/xitu/tensorflow) | 文档  | 英译中  |  翻译  |
-| 20171023 | [RNN 循环神经网络系列 4: 注意力机制] | 文章 | 英译中 | 校对 | 
-| 20170928 | [RNN 循环神经网络系列 3：编码、解码器] | 文章 | 英译中 | 翻译 | 
+| 20171109 | [TensorFlow 官方文档翻译: 使用 tf.estimator 构建输入函数] | 文档  | 英译中  |  翻译  |
+| 20171023 | [TensorFlow 官方文档翻译: 在 macOS 中安装 TensorFlow] | 文档  | 英译中  |  翻译  |
+| 20171023 | [TensorFlow 官方文档翻译: README](https://github.com/xitu/tensorflow/blob/zh-hans/README.md) | 文档  | 英译中  |  翻译  |
+| 20171023 | [RNN 循环神经网络系列 4: 注意力机制](https://juejin.im/post/59f72f61f265da432002871c) | 文章 | 英译中 | 校对 | 
+| 20170928 | [RNN 循环神经网络系列 3：编码、解码器](https://juejin.im/post/59fc1616f265da432b4a2d44) | 文章 | 英译中 | 翻译 | 
 | 20170929 | [RNN 循环神经网络系列 2：文本分类](https://juejin.im/post/59f0c6b3f265da4319557de4) | 文章 | 英译中 | 翻译 | 
 | 20170930 | [RNN 循环神经网络系列 1：基本 RNN 与 CHAR-RNN](https://juejin.im/post/59f0c5b0f265da43085d3e94) | 文章 | 英译中 | 翻译 |
 | 20170919 | [『小键盘』难题：用户在手机上填写表单吗？](https://juejin.im/post/59c0e3835188256bcf2e1d22) |  文章  | 英译中  |  翻译  |
