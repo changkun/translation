@@ -34,7 +34,7 @@ This repository contains my personal open translation works, including Chinese/E
 | 20170512 | [设计师装腔指南](https://juejin.im/post/5915880b570c35006932fac9) |  Article  | en-cn  |  Translation  |
 | 20160824 | [LeapMotion 官方Document中文Translation](https://github.com/changkun/LeapDocCN) |  Document  | en-cn  |  Translation  |
 | 20160518 | [Swift API 设计指南](http://swift.gg/2016/05/18/api-design-guidelines/) |  Article  | en-cn  |  Translation  |
-| 20160509 | [《Swift 编程语言》Document修订历史 2.0/2.1/2.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/blob/gh-pages/source/chapter1/03_revision_history.md) |  书籍  | en-cn  |  Translation  |
+| 20160509 | [《Swift 编程语言》Document修订历史 2.0/2.1/2.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/blob/gh-pages/source/chapter1/03_revision_history.md) |  Book  | en-cn  |  Translation  |
 
 ## Cooperation
 
