@@ -8,6 +8,7 @@
 
 |    时间   | 标题                                      | 作品类型 |  语言  | 参与类型 |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20180120 | [《人机交互》](http://mmibuch.de/v2/) | 书籍 | 德译中 | 翻译 |
 | 20171217 | [深度学习的泛化理论简介](https://changkun.us/archives/2017/12/240/) | 文章 | 英译中 | 翻译 |
 | 20171213 | [TensorFlow 架构](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow/docs_src/extend/architecture.md) | 文档  | 英译中  |  翻译  |
 | 20171208 | [TensorFlow 官方文档翻译: 使用 tf.estimator 构建输入函数](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow/docs_src/get_started/input_fn.md) | 文档  | 英译中  |  翻译  |
