@@ -8,6 +8,7 @@ This repository contains my personal open translation works, including Chinese/E
 
 |    Time   | Title                                      | Type |  Language  | Category |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20180120 | [Human-Machine Interaction](http://mmibuch.de/v2/) | Book| de-cn | Translation |
 | 20171217 | [Generalization Theory and Deep Nets, An introduction](https://changkun.us/archives/2017/12/240/) | Article | en-cn | Translation |
 | 20171213 | [TensorFlow Architecture](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow/docs_src/extend/architecture.md) | Document  | en-cn  |  Translation  |
 | 20171208 | [Building Input Functions with tf.estimator](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow/docs_src/get_started/input_fn.md) | Document  | en-cn  |  Translation  |
