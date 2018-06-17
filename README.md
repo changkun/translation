@@ -61,7 +61,7 @@
 
 ## 合作
 
-欢迎联系合作，联系方式：
+承接翻译，联系方式：
 
 - [邮箱：hi[at]changkun.us](mailto:hi[at]changkun.us)
 
