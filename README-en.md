@@ -61,7 +61,7 @@ This repository contains my personal open translation works, including Chinese/E
 
 ## Cooperation
 
-Welcome contact for cooperation, here is my email:
+Contact welcome for translation, here is my email:
 
 - [hi[at]changkun.us](mailto:hi[at]changkun.us)
 
