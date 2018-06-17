@@ -8,6 +8,28 @@ This repository contains my personal open translation works, including Chinese/E
 
 |    Time   | Title                                      | Type |  Language  | Category |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20180525 | [TensorFlow Docs: Fixed Point Quantization](https://github.com/xitu/tensorflow-docs/blob/zh-hans/performance/quantization.md) | Document | en-cn | Translation |
+| 20180327 | [TensorFlow Docs: Recurrent Neural Networks for Drawing Classification](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent_quickdraw.md) | Document | en-cn | Translation |
+| 20180327 | [TensorFlow Docs: Vector Representations of Words](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/word2vec.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: TensorFlow Linear Model Tutorial](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/wide.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: TensorFlow Wide & Deep Learning Tutorial](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/wide_and_deep.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: Recurrent Neural Networks](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: Mandelbrot Set](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/mandelbrot.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: Large-scale Linear Models with TensorFlow](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/linear.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: A Guide to TF Layers: Building a Convolutional Neural Network](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/layers.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: Improving Linear Models Using Explicit Kernel Methods](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/kernel_methods.md) | Document | en-cn | Proofread |
+| 20180327 | [TensorFlow Docs: Image Recognition](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/image_recognition.md) | Document | en-cn | Proofread |
+| 20180326 | [Proving generalization of deep nets via compression](https://changkun.us/archives/2018/03/250/) | Document | en-cn | Translation |
+| 20180326 | [TensorFlow Docs: Convolutional Neural Networks](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/deep_cnn.md) | Document | en-cn | Proofread |
+| 20180326 | [TensorFlow Docs: Simple Audio Recognition](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/audio_recognition.md) | Document | en-cn | Proofread |
+| 20180326 | [TensorFlow Docs: How to Retrain Inception's Final Layer for New Categories](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/image_retraining.md) | Document | en-cn | Proofread |
+| 20180326 | [TensorFlow Docs: Tutorials](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/index.md) | Document | en-cn | Proofread |
+| 20180326 | [TensorFlow Docs: Sequence-to-Sequence Models](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/seq2seq.md) | Document | en-cn | Proofread |
+| 20180326 | [TensorFlow Docs: Partial Differential Equations](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/pdes.md) | Document | en-cn | Proofread |
+| 20180324 | [TensorFlow Docs: Optimizing for mobile](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/optimizing.md) | Document | en-cn | Translation |
+| 20180323 | [TensorFlow Docs: Building TensorFlow on iOS](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/ios_build.md) | Document | en-cn | Translation |
+| 20180323 | [TensorFlow Docs: Integrating TensorFlow libraries](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/linking_libs.md) | Document | en-cn | Translation |
+| 20180323 | [TensorFlow Docs: Introduction to TensorFlow Mobile](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/mobile_intro.md) | Document | en-cn | Translation |
 | 20180120 | [Human-Machine Interaction](http://mmibuch.de/v2/) | Book| de-cn | Translation |
 | 20171217 | [Generalization Theory and Deep Nets, An introduction](https://changkun.us/archives/2017/12/240/) | Article | en-cn | Translation |
 | 20171213 | [TensorFlow Architecture](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow/docs_src/extend/architecture.md) | Document  | en-cn  |  Translation  |
