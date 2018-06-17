@@ -8,33 +8,33 @@
 
 |    时间   | 标题                                      | 作品类型 |  语言  | 参与类型 |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
-| 20180525 | [TensorFlow 官方文档: 定点量化技术]() | 文档 | 英译中 | 翻译 |
-| 20180327 | [TensorFlow 官方文档: 对涂鸦进行分类的循环神经网络]() | 文档 | 英译中 | 翻译 |
-| 20180327 | [TensorFlow 官方文档: 单词的向量表示]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: TensorFlow 线性模型]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: TensorFlow 宽深学习]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: 循环神经网络]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: 曼德布洛特集合]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: TensorFlow 大规模线性模型]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: TF Layers 教程：构建卷积神经网络]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: 核方法]() | 文档 | 英译中 | 校对 |
-| 20180327 | [TensorFlow 官方文档: 图像识别]() | 文档 | 英译中 | 校对 |
-| 20180326 | [压缩法与深度网络的泛化性]() | 文档 | 英译中 | 翻译 |
-| 20180326 | [TensorFlow 官方文档: 卷积神经网络]() | 文档 | 英译中 | 校对 |
-| 20180326 | [TensorFlow 官方文档: 简易语音识别]() | 文档 | 英译中 | 校对 |
-| 20180326 | [TensorFlow 官方文档: 重新训练 Inception 最后一层并识别新的分类]() | 文档 | 英译中 | 校对 |
-| 20180326 | [TensorFlow 官方文档: 教程]() | 文档 | 英译中 | 校对 |
-| 20180326 | [TensorFlow 官方文档: 序列到序列模型]() | 文档 | 英译中 | 校对 |
-| 20180326 | [TensorFlow 官方文档: 偏微分方程]() | 文档 | 英译中 | 校对 |
+| 20180525 | [TensorFlow 官方文档: 定点量化技术](https://github.com/xitu/tensorflow-docs/blob/zh-hans/performance/quantization.md) | 文档 | 英译中 | 翻译 |
+| 20180327 | [TensorFlow 官方文档: 对涂鸦进行分类的循环神经网络](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent_quickdraw.md) | 文档 | 英译中 | 翻译 |
+| 20180327 | [TensorFlow 官方文档: 单词的向量表示](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/word2vec.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: TensorFlow 线性模型](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/wide.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: TensorFlow 宽深学习](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/wide_and_deep.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: 循环神经网络](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: 曼德布洛特集合](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/mandelbrot.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: TensorFlow 大规模线性模型](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/linear.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: TF Layers 构建卷积神经网络](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/layers.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: 使用特定的核方法改善线性模型](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/kernel_methods.md) | 文档 | 英译中 | 校对 |
+| 20180327 | [TensorFlow 官方文档: 图像识别](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/image_recognition.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [压缩法与深度网络的泛化性](https://changkun.us/archives/2018/03/250/) | 文档 | 英译中 | 翻译 |
+| 20180326 | [TensorFlow 官方文档: 卷积神经网络](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/deep_cnn.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [TensorFlow 官方文档: 简易语音识别](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/audio_recognition.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [TensorFlow 官方文档: 重新训练 Inception 最后一层并识别新的分类](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/image_retraining.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [TensorFlow 官方文档: 教程](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/index.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [TensorFlow 官方文档: 序列到序列模型](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/seq2seq.md) | 文档 | 英译中 | 校对 |
+| 20180326 | [TensorFlow 官方文档: 偏微分方程](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/pdes.md) | 文档 | 英译中 | 校对 |
 | 20180324 | [TensorFlow 官方文档: 移动端优化](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/optimizing.md) | 文档 | 英译中 | 翻译 |
 | 20180323 | [TensorFlow 官方文档: 在 iOS 中构建 TensorFlow](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/ios_build.md) | 文档 | 英译中 | 翻译 |
 | 20180323 | [TensorFlow 官方文档: 集成 TensorFlow 库](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/linking_libs.md) | 文档 | 英译中 | 翻译 |
 | 20180323 | [TensorFlow 官方文档: TensorFlow Mobile 简介](https://github.com/xitu/tensorflow-docs/blob/zh-hans/mobile/mobile_intro.md) | 文档 | 英译中 | 翻译 |
-| 20180120 | [《人机交互》](http://mmibuch.de/v2/) | 书籍 | 德译中 | 翻译 |
+| 20180120 | [人机交互](http://mmibuch.de/v2/) | 书籍 | 德译中 | 翻译 |
 | 20171217 | [深度学习的泛化理论简介](https://changkun.us/archives/2017/12/240/) | 文章 | 英译中 | 翻译 |
-| 20171213 | [TensorFlow 官方文档: TensorFlow 架构](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tensorflow/docs_src/extend/architecture.md) | 文档  | 英译中  |  翻译  |
-| 20171208 | [TensorFlow 官方文档: 使用 tf.estimator 构建输入函数](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow-docs/docs_src/get_started/input_fn.md) | 文档  | 英译中  |  翻译  |
-| 20171023 | [TensorFlow 官方文档: 在 macOS 中安装 TensorFlow](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow-docs/docs_src/install/install_mac.md) | 文档  | 英译中  |  翻译  |
+| 20171213 | [TensorFlow 官方文档: TensorFlow 架构](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tensorflow/extend/architecture.md) | 文档  | 英译中  |  翻译  |
+| 20171208 | [TensorFlow 官方文档: 使用 tf.estimator 构建输入函数](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow-docs/get_started/input_fn.md) | 文档  | 英译中  |  翻译  |
+| 20171023 | [TensorFlow 官方文档: 在 macOS 中安装 TensorFlow](https://github.com/xitu/tensorflow/blob/zh-hans/tensorflow-docs/install/install_mac.md) | 文档  | 英译中  |  翻译  |
 | 20171023 | [TensorFlow 官方文档: README](https://github.com/xitu/tensorflow-docs/blob/zh-hans/README.md) | 文档  | 英译中  |  翻译  |
 | 20171023 | [RNN 循环神经网络系列 4: 注意力机制](https://juejin.im/post/59f72f61f265da432002871c) | 文章 | 英译中 | 校对 | 
 | 20170928 | [RNN 循环神经网络系列 3：编码、解码器](https://juejin.im/post/59fc1616f265da432b4a2d44) | 文章 | 英译中 | 翻译 | 
