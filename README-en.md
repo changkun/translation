@@ -8,6 +8,7 @@ This repository contains my personal open translation works, including Chinese/E
 
 |    Time   | Title                                      | Type |  Language  | Category |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20180728 | [A Million WebSocket and Go](https://changkun.us/archives/2018/07/254/) | Document | en-cn | Translation |
 | 20180525 | [TensorFlow Docs: Fixed Point Quantization](https://github.com/xitu/tensorflow-docs/blob/zh-hans/performance/quantization.md) | Document | en-cn | Translation |
 | 20180327 | [TensorFlow Docs: Recurrent Neural Networks for Drawing Classification](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent_quickdraw.md) | Document | en-cn | Translation |
 | 20180327 | [TensorFlow Docs: Vector Representations of Words](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/word2vec.md) | Document | en-cn | Proofread |
