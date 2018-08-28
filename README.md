@@ -8,6 +8,7 @@
 
 |    时间   | 标题                                      | 作品类型 |  语言  | 参与类型 |
 | :------: | :--------------------------------------- | :--: | :--: | :--: |
+| 20180828 | [使用 Go 编写微服务及其 GraphQL 网关](https://github.com/xitu/gold-miner/blob/master/TODO1/go-graphql-gateway-microservices.md) | 文档 | 英译中 | 翻译 |
 | 20180728 | [如何用 Go 支持百万 WebSocket 连接](https://changkun.us/archives/2018/07/254/) | 文档 | 英译中 | 翻译 |
 | 20180525 | [TensorFlow 官方文档: 定点量化技术](https://github.com/xitu/tensorflow-docs/blob/zh-hans/performance/quantization.md) | 文档 | 英译中 | 翻译 |
 | 20180327 | [TensorFlow 官方文档: 对涂鸦进行分类的循环神经网络](https://github.com/xitu/tensorflow-docs/blob/zh-hans/tutorials/recurrent_quickdraw.md) | 文档 | 英译中 | 翻译 |
